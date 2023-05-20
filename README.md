@@ -7,15 +7,15 @@
 
 ## Login view
 
-![assets](assets/page/login.png)
+![assets](flutter_login_page-main/assets/page/login.png)
 
 ## Register
 
-![assets](assets/page/register.png)
+![assets](flutter_login_page-main/assets/page/register.png)
 
 ## Forgot Password
 
-![assets](assets/page/forgot.png)
+![assets](flutter_login_page-main/assets/page/forgot.png)
 
 
 
